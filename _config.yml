@@ -1,0 +1,8 @@
+title: "Mohamed Akdim"
+description: "Independent Researcher — Cryptography & Graph Theory"
+theme: jekyll-theme-minimal   # simple, clean built-in theme
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+timezone: Africa/Casablanca
