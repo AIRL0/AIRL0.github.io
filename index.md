@@ -14,7 +14,6 @@ Email: akdimfsr(at)gmail(dot)com
 
 ---
 
-# Mohamed Akdim
-Independent Researcher — Mathematics and Cryptography
+
 
 
