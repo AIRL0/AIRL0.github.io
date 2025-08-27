@@ -1,0 +1,266 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Mohamed Akdim — Independent Researcher</title>
+  <meta name="description" content="Independent researcher in cryptography and graph theory. Secret sharing, verifiable schemes, Cayley/Schreier graphs.">
+  <meta name="author" content="Mohamed Akdim">
+
+  <!-- Open Graph / Twitter -->
+  <meta property="og:title" content="Mohamed Akdim — Independent Researcher">
+  <meta property="og:description" content="Cryptography • Secret Sharing • Verifiable Schemes • Graph Theory">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://YOUR-USERNAME.github.io/">
+  <meta property="og:image" content="https://YOUR-USERNAME.github.io/assets/og-image.jpg">
+  <meta name="twitter:card" content="summary_large_image">
+
+  <!-- Favicon (optional) -->
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='0.9em' font-size='90'>∑</text></svg>">
+
+  <!-- Minimal, fast, accessible type stack -->
+  <style>
+    :root{
+      --bg: #ffffff;
+      --fg: #111111;
+      --muted: #666666;
+      --accent: #2d6cdf; /* change this to your preferred highlight color */
+      --card: #f6f8fb;
+      --border: #e6eaf2;
+      --shadow: 0 6px 24px rgba(0,0,0,.06);
+      --radius: 18px;
+      --maxw: 1100px;
+    }
+    @media (prefers-color-scheme: dark){
+      :root{ --bg:#0b0c10; --fg:#f4f6fb; --muted:#a6adbb; --card:#11131a; --border:#1d2130; --shadow:none; }
+    }
+    html{scroll-behavior:smooth}
+    *{box-sizing:border-box}
+    body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.6 system-ui, -apple-system, Segoe UI, Roboto, "Helvetica Neue", Arial, "Noto Sans", "Apple Color Emoji", "Segoe UI Emoji"}
+    a{color:var(--accent);text-decoration:none}
+    a:hover{text-decoration:underline}
+    .wrap{max-width:var(--maxw);margin-inline:auto;padding:24px}
+    header{position:sticky;top:0;background:color-mix(in lab, var(--bg) 90%, transparent);backdrop-filter:saturate(180%) blur(6px);z-index:10;border-bottom:1px solid var(--border)}
+    .nav{display:flex;align-items:center;gap:18px;justify-content:space-between}
+    .brand{display:flex;align-items:center;gap:14px}
+    .brand img{width:52px;height:52px;border-radius:50%;object-fit:cover;border:1px solid var(--border)}
+    .brand .title{font-weight:700;font-size:20px}
+    .brand .subtitle{font-size:13px;color:var(--muted);margin-top:-4px}
+    .menu{display:flex;flex-wrap:wrap;gap:14px}
+    .menu a{padding:8px 12px;border-radius:10px}
+    .menu a:hover{background:var(--card);text-decoration:none}
+    .mobile{display:none}
+    @media (max-width:780px){.menu{display:none}.mobile{display:inline-flex}}
+
+    .hero{padding:50px 0}
+    .badge{display:inline-block;padding:6px 10px;border:1px solid var(--border);border-radius:999px;color:var(--muted);font-size:13px}
+    h1{font-size:40px;line-height:1.15;margin:14px 0}
+    .lead{font-size:18px;color:var(--muted);max-width:72ch}
+    .cta{margin-top:18px;display:flex;gap:12px;flex-wrap:wrap}
+    .btn{display:inline-flex;align-items:center;gap:10px;background:var(--accent);color:#fff;padding:10px 14px;border-radius:12px;border:none;box-shadow:var(--shadow)}
+    .btn.secondary{background:transparent;color:var(--accent);border:1px solid var(--accent)}
+
+    section{padding:30px 0;border-top:1px solid var(--border)}
+    h2{font-size:26px;margin:0 0 8px}
+    .muted{color:var(--muted)}
+
+    .grid{display:grid;grid-template-columns:repeat(12,1fr);gap:20px}
+    .col-4{grid-column:span 4}
+    .col-6{grid-column:span 6}
+    .col-8{grid-column:span 8}
+    .col-12{grid-column:span 12}
+    @media(max-width:900px){.col-4,.col-6,.col-8{grid-column:span 12}}
+
+    .card{background:var(--card);border:1px solid var(--border);border-radius:var(--radius);padding:18px;box-shadow:var(--shadow)}
+    .list{display:grid;gap:12px}
+    .pub{padding:14px;border:1px solid var(--border);border-radius:12px}
+    .pub .meta{color:var(--muted);font-size:14px}
+
+    footer{padding:40px 0 60px;color:var(--muted)}
+    .minitext{font-size:13px;color:var(--muted)}
+    .pill{display:inline-block;font-size:12px;padding:4px 10px;border-radius:999px;background:var(--card);border:1px solid var(--border)}
+  </style>
+
+  <!-- Structured data for better academic SEO -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Mohamed Akdim",
+    "jobTitle": "Independent Researcher",
+    "worksFor": {"@type":"Organization","name":"Independent"},
+    "url": "https://YOUR-USERNAME.github.io/",
+    "email": "mailto:you@example.com",
+    "sameAs": [
+      "https://scholar.google.com/citations?user=YOURID",
+      "https://orcid.org/YOUR-ORCID",
+      "https://github.com/YOUR-USERNAME",
+      "https://www.linkedin.com/in/YOUR-USERNAME/"
+    ]
+  }
+  </script>
+</head>
+<body>
+  <header>
+    <div class="wrap nav">
+      <div class="brand">
+        <!-- Replace with your headshot: put a file at /assets/photo.jpg and update src -->
+        <img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" alt="Profile photo">
+        <div>
+          <div class="title">Mohamed Akdim</div>
+          <div class="subtitle">Independent Researcher — Cryptography & Graph Theory</div>
+        </div>
+      </div>
+      <nav class="menu" id="menu">
+        <a href="#about">About</a>
+        <a href="#research">Research</a>
+        <a href="#publications">Publications</a>
+        <a href="#talks">Talks & Teaching</a>
+        <a href="#notes">Notes</a>
+        <a href="#contact">Contact</a>
+      </nav>
+      <button class="mobile" aria-label="Open Menu" onclick="document.getElementById('menu').style.display = (getComputedStyle(document.getElementById('menu')).display==='none'?'flex':'none')">☰</button>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <!-- Hero -->
+    <section class="hero">
+      <span class="badge">Secret Sharing • Verifiable Schemes • Cayley/Schreier Graphs</span>
+      <h1>Advancing cryptography through algebraic and graph‑theoretic methods</h1>
+      <p class="lead">I study <strong>verifiable secret sharing</strong> and its connections to <strong>expansion</strong>, <strong>Cayley/Schreier graphs</strong>, and <strong>algebraic encodings</strong> — with applications to distributed cryptosystems and protocols.</p>
+      <div class="cta">
+        <a class="btn" href="#research">Explore Research</a>
+        <a class="btn secondary" href="#publications">View Publications</a>
+        <a class="btn secondary" href="CV.pdf">Download CV</a>
+      </div>
+    </section>
+
+    <!-- About -->
+    <section id="about">
+      <h2>About</h2>
+      <p>I'm an independent researcher based in Morocco, focusing on <em>secret sharing</em>, <em>verifiable secret sharing (VSS)</em>, and <em>graph‑theoretic cryptography</em>. I also teach high‑school mathematics and create educational content. My current work explores <strong>Pedersen VSS</strong>, <strong>matrix‑based schemes</strong>, and <strong>re‑randomization via group actions</strong> modeled on <strong>Cayley/Schreier graphs</strong>.</p>
+      <p class="muted minitext">Keywords: Pedersen VSS, Feldman, DKG, expansion, spectral methods, Schreier graphs, algebraic coding, leakage resilience.</p>
+    </section>
+
+    <!-- Research -->
+    <section id="research">
+      <h2>Research</h2>
+      <p class="muted">Selected projects and directions. Replace placeholders with your ongoing work; link to notes or preprints.</p>
+
+      <div class="grid">
+        <div class="col-6">
+          <div class="card">
+            <div class="pill">Project</div>
+            <h3>Graph‑theoretic framework for Pedersen VSS</h3>
+            <p>Modeling shares as linear encodings with <em>structured re‑randomization</em> via <code>GL_k(\mathbb{F}_q)</code> actions. Analyzing <strong>unlinkability</strong> and <strong>mixing</strong> using spectral expansion on Cayley/Schreier graphs.</p>
+            <p class="minitext">Preprint: <a href="#">arXiv:YYYY.NNNNN</a> • Code: <a href="https://github.com/YOUR-USERNAME">GitHub</a></p>
+          </div>
+        </div>
+        <div class="col-6">
+          <div class="card">
+            <div class="pill">Direction</div>
+            <h3>Dual‑threshold AVSS & high‑threshold DKG</h3>
+            <p>Designing AVSS with dual thresholds to improve secrecy in threshold cryptosystems and efficiency in BFT protocols; exploring expander‑based sampling.</p>
+            <p class="minitext">Notes: <a href="#">PDF</a> • Slides: <a href="#">Talk</a></p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Publications -->
+    <section id="publications">
+      <h2>Publications & Working Papers</h2>
+      <div class="list">
+        <!-- Duplicate the .pub block for each item -->
+        <div class="pub">
+          <div><strong>[Working Paper]</strong> Algebraic & Graph‑Theoretic Enhancements for Pedersen’s Verifiable Secret Sharing</div>
+          <div class="meta">Akdim, M. — 2025. <a href="#">arXiv (PDF)</a> · <a href="#">BibTeX</a> · <a href="#">Code</a></div>
+        </div>
+        <div class="pub">
+          <div><strong>[Preprint]</strong> Matrix‑based Secret Sharing with Group Actions</div>
+          <div class="meta">Akdim, M. — 2025. <a href="#">arXiv (PDF)</a> · <a href="#">Slides</a></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Talks & Teaching -->
+    <section id="talks">
+      <h2>Talks & Teaching</h2>
+      <div class="grid">
+        <div class="col-8">
+          <ul>
+            <li><strong>Student‑led Conference:</strong> Mathematics in AI — Organizer, 2025. <a href="#">Agenda</a></li>
+            <li><strong>Seminar:</strong> Verifiable Secret Sharing via Expansion — 2025. <a href="#">Slides</a></li>
+            <li><strong>Course:</strong> VSS & Pedersen/Feldman — lecture notes <a href="#">(PDF)</a></li>
+          </ul>
+        </div>
+        <div class="col-4">
+          <div class="card">
+            <strong>Teaching Resources</strong>
+            <ul>
+              <li>Manim animations (YouTube)</li>
+              <li>Olympiad prep sheets (LaTeX)</li>
+              <li>Problem sets & solutions</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Notes/Blog -->
+    <section id="notes">
+      <h2>Notes</h2>
+      <p class="muted">Short research notes, idea sketches, and updates.</p>
+      <div class="list">
+        <div class="pub">
+          <div><strong>Re‑randomization via GL_k actions</strong></div>
+          <div class="meta">Note — <span id="note-date">2025‑08‑27</span> · <a href="#">Read</a></div>
+        </div>
+        <div class="pub">
+          <div><strong>Schreier graphs for leakage resilience</strong></div>
+          <div class="meta">Note — 2025‑08‑20 · <a href="#">Read</a></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Contact -->
+    <section id="contact">
+      <h2>Contact</h2>
+      <p>Email: <a href="mailto:you@example.com">you@example.com</a> · Google Scholar · ORCID · GitHub · LinkedIn</p>
+      <p class="muted">I’m open to research collaborations, student mentoring, and invited talks.</p>
+    </section>
+
+    <footer>
+      <div class="grid">
+        <div class="col-6">
+          <div class="minitext">© <span id="year"></span> Mohamed Akdim. Last updated <span id="updated"></span>.</div>
+        </div>
+        <div class="col-6" style="text-align:right">
+          <a class="minitext" href="#about">Back to top ↑</a>
+        </div>
+      </div>
+    </footer>
+  </main>
+
+  <script>
+    // Auto year + last updated
+    const d = new Date();
+    document.getElementById('year').textContent = d.getFullYear();
+    document.getElementById('updated').textContent = d.toISOString().slice(0,10);
+  </script>
+
+  <!--
+  ===================== QUICK EDIT GUIDE =====================
+  1) Replace YOUR-USERNAME in meta og:url and og:image with your GitHub username.
+  2) Replace headshot <img> src with your photo (put file at /assets/photo.jpg in the repo).
+  3) Update text in each section (About, Research cards, Publications list, Talks, Notes, Contact).
+  4) Add your CV as CV.pdf in the repo root or remove the button in the hero.
+  5) Change --accent color in :root to your preferred highlight color.
+  6) To add a new publication, duplicate a .pub block inside #publications.
+  7) You can create an /assets folder for images and PDFs; link with href="assets/…".
+  8) For a custom domain later, add a file named CNAME with your domain inside, in the repo root.
+  ============================================================
+  -->
+</body>
+</html>
