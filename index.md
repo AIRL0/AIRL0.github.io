@@ -1,8 +1,8 @@
-# index.md
+# Contact
 ---
-layout: default
+Email: akdimfsr(at)gmail(dot)com
 title: "Mohamed Akdim"
 ---
 
 # Mohamed Akdim
-Independent Researcher — Cryptography & Graph Theory
+Independent Researcher — Mathematics and Cryptography
