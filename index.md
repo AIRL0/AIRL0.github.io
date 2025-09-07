@@ -9,8 +9,7 @@
 <!-- Photo floats left -->
 <img src="{{ '/assets/photo.jpg' | relative_url }}" alt="Mohamed Akdim" width="180" style="float:left; margin:0 1rem .5rem 0; border-radius:50%; box-shadow:0 6px 24px rgba(0,0,0,.15);" />
 
-**Short intro beside the photo.** This is <span style="color:#0e7c86;">teal text</span> and
-this is <span style="color:crimson;">crimson</span>. One to three sentences max, so it stays aligned nicely on one or two lines at normal widths.
+My main research subjects are <span style="color:crimson;">Algebraic expander graphs</span>, <span style="color:crimson;">Quantum Cryptography</span> and <span style="color:crimson;">Verifiable Secret Sharing</span>. I am actually working as an Independent Researcher in Morocco.
 
 <!-- Clear the float so everything below starts under the image -->
 <div style="clear:both;"></div>
