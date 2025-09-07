@@ -7,7 +7,7 @@
 </p>
 
 <!-- Photo floats left -->
-<img src="{{ '/assets/photo.jpg' | relative_url }}" alt="Mohamed Akdim" width="160" style="border-radius:50%; display:block; margin: 0 auto 1rem;" />
+<img src="{{ '/assets/photo.jpg' | relative_url }}" alt="Mohamed Akdim" width="180" style="float:left; margin:0 1rem .5rem 0; border-radius:50%; box-shadow:0 6px 24px rgba(0,0,0,.15);" />
 
 **Short intro beside the photo.** One to three sentences max, so it stays aligned nicely on one or two lines at normal widths.
 
