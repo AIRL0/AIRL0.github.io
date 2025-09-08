@@ -15,16 +15,19 @@ I did a Bachelor in Mathematical Sciences and Applications at Mohammed V Univers
 
 - A Research intern at University of Ottawa in Canada, working on Fully Homomorphic Encryption during the summer of 2023.
 - Teaching at Mohammed V University in Rabat during the Academic years 2021/2022 and 2022/2023.
+- Cryptography Research at National School of Applied Sciences in Tangier, Morocco (2024) 
 
 <!-- Clear the float so everything below starts under the image -->
 <div style="clear:both;"></div>
 
-Now continue with the rest of your paragraph(s) here, below the photo and blurb… 
 
 
 # Contact
 ---
-Email: akdimfsr(at)gmail(dot)com
+<span style="color:crimson;">E-mail:</span> akdimfsr(at)gmail(dot)com
+<span style="color:crimson;">Github:</span>
+<span style="color:crimson;">ORCID:</span>
+<span style="color:crimson;">ARXIV:</span>
 
 ---
 
