@@ -25,8 +25,11 @@ I did a Bachelor in Mathematical Sciences and Applications at Mohammed V Univers
 # Contact
 ---
 <span style="color:crimson;">E-mail:</span> akdimfsr(at)gmail(dot)com
+
 <span style="color:crimson;">Github:</span>
+
 <span style="color:crimson;">ORCID:</span>
+
 <span style="color:crimson;">ARXIV:</span>
 
 ---
