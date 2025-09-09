@@ -4,7 +4,7 @@
   <a href="{{ '/talks/' | relative_url }}">Talks</a> ·
   <a href="{{ '/teaching/' | relative_url }}">Teaching</a> ·
   <a href="{{ '/projects/' | relative_url }}">Open-Source</a>
-</p>
+
 
 <!-- Photo floats left -->
 <img src="{{ '/assets/photo.jpg' | relative_url }}" alt="Mohamed Akdim" width="180" style="float:left; margin:0 1rem .5rem 0; border-radius:50%; box-shadow:0 6px 24px rgba(0,0,0,.15);" />
