@@ -1,4 +1,3 @@
-<<p style="text-align:center;">
   <a href="{{ '/publications/' | relative_url }}">Publications</a> ·
   <a href="{{ '/blog/' | relative_url }}">Blog</a> ·
   <a href="{{ '/talks/' | relative_url }}">Talks</a> ·
