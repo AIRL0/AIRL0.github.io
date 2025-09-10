@@ -14,7 +14,8 @@ I did a Bachelor in Mathematical Sciences and Applications at Mohammed V Univers
 
 - A Research intern at <span style="color:crimson;">**University of Ottawa in Canada**</span>, focused on lowering the bound of a Fully Homomorphic encryption using a sample parameter from Gaussian distribution within the project, Crypto-DID, from June to September 2023.
 - Teaching at Mohammed V University in Rabat during the Academic years 2021/2022 and 2022/2023.
-- Cryptography Research in the team of Mathematics and Intelligent Systems at the National School of Applied Sciences in Tangier, Morocco (2024) 
+- Cryptography Research in the team of Mathematics and Intelligent Systems at the National School of Applied Sciences in Tangier, Morocco (2024)
+- Independent Research from August 2025 until now.
 
 <!-- Clear the float so everything below starts under the image -->
 <div style="clear:both;"></div>
