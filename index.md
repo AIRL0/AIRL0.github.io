@@ -8,7 +8,7 @@
 <!-- Photo floats left -->
 <img src="{{ '/assets/photo.jpg' | relative_url }}" alt="Mohamed Akdim" width="180" style="float:left; margin:0 1rem .5rem 0; border-radius:50%; box-shadow:0 6px 24px rgba(0,0,0,.15);" />
 
-My main research subjects are <span style="color:crimson;">Algebraic expander graphs</span>, <span style="color:crimson;">Quantum Cryptography</span> and <span style="color:crimson;">Verifiable Secret Sharing</span>. I am actually working as an Independent Researcher based in Morocco and developing a graph-theoretic framework for Quantum secret sharing schemes.
+My main research subjects are <span style="color:crimson;">Algebraic Expander Graphs</span>, <span style="color:crimson;">Quantum Cryptography</span> and <span style="color:crimson;">Verifiable Secret Sharing</span>. I am actually working as an Independent Researcher based in Morocco and developing a graph-theoretic framework for Quantum secret sharing schemes.
 
 I did a Bachelor in Mathematical Sciences and Applications at Mohammed V University in Rabat, and a M.S. in Mathematical Analysis with thesis in Algebraic Graph Theory (2020). From 2020 to 2023 I was a PhD student in the Laboratory of Mathematics, Statistics and Applications, Faculty of Sciences in Rabat. I've been also:
 
