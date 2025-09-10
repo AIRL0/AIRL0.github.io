@@ -12,7 +12,7 @@ My main research subjects are <span style="color:crimson;">Algebraic expander gr
 
 I did a Bachelor in Mathematical Sciences and Applications at Mohammed V University in Rabat, and a M.S. in Mathematical Analysis with thesis in Algebraic Graph Theory (2020). From 2020 to 2023 I was a PhD student in the Laboratory of Mathematics, Statistics and Applications, Faculty of Sciences in Rabat. I've been also:
 
-- A Research intern at <span style="color:#0e7c86;">**University of Ottawa in Canada**</span>, focused on lowering the bound of a Fully Homomorphic encryption using a sample parameter from Gaussian distribution within the project, Crypto-DID, from June to September 2023.
+- A Research intern at <span style="color:crimson;">**University of Ottawa in Canada**</span>, focused on lowering the bound of a Fully Homomorphic encryption using a sample parameter from Gaussian distribution within the project, Crypto-DID, from June to September 2023.
 - Teaching at Mohammed V University in Rabat during the Academic years 2021/2022 and 2022/2023.
 - Cryptography Research in the team of Mathematics and Intelligent Systems at the National School of Applied Sciences in Tangier, Morocco (2024) 
 
